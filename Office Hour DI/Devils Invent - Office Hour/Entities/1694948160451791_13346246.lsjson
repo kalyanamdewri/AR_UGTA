@@ -1,0 +1,39 @@
+{
+    "1694948160449805:13346245": {
+        "IFileManager": {
+            "path": "Files/File_1694948160449805_13346245"
+        }
+    },
+    "1694948160451791:13346246": {
+        "IResourceController": {
+            "name": "stool_wooden",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948160451795:13346247",
+            "fileId": "1694948160449805:13346245",
+            "originalId": "1694948160484239:13346253",
+            "publicId": "1694970975644003:33858396",
+            "expected_hash": "83564c310d101bb60e2e7b41bbbe5141"
+        },
+        "IResourceManager": {
+            "uid": "1694948160451795:13346247",
+            "name": "Files/File_1694948160449805_13346245",
+            "flags": 1
+        }
+    },
+    "1694948160484239:13346253": {
+        "IFileManager": {
+            "path": "Files/File_1694948160484239_13346253.lsmat"
+        }
+    },
+    "1694970975644003:33858396": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/stool_wooden/Material/stool_wooden.lsmat",
+                "hash": "1db5a32d149b812863fc55b60e812f8d"
+            }
+        }
+    }
+}

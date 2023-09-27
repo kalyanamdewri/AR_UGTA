@@ -1,0 +1,39 @@
+{
+    "1694948159250859:13345735": {
+        "IFileManager": {
+            "path": "Files/File_1694948159250859_13345735"
+        }
+    },
+    "1694948159253715:13345736": {
+        "IResourceController": {
+            "name": "nightstand",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948159253720:13345737",
+            "fileId": "1694948159250859:13345735",
+            "originalId": "1694948159289322:13345743",
+            "publicId": "1694970975627151:33858365",
+            "expected_hash": "83564c310d101bb60e2e7b41bbbe5141"
+        },
+        "IResourceManager": {
+            "uid": "1694948159253720:13345737",
+            "name": "Files/File_1694948159250859_13345735",
+            "flags": 1
+        }
+    },
+    "1694948159289322:13345743": {
+        "IFileManager": {
+            "path": "Files/File_1694948159289322_13345743.lsmat"
+        }
+    },
+    "1694970975627151:33858365": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/nightstand/Material/nightstand.lsmat",
+                "hash": "d920b9fcb1100452117c9a508fb6e404"
+            }
+        }
+    }
+}

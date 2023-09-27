@@ -1,0 +1,42 @@
+{
+    "1694971251394613:34040150": {
+        "IFileManager": {
+            "path": "Files/File_1694971251394613_34040150"
+        }
+    },
+    "1694971251395506:34040151": {
+        "IResourceController": {
+            "name": "hand_gizmo_unlit",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971251395510:34040152",
+            "fileId": "1694971251394613:34040150",
+            "originalId": "1694971251416373:34040158",
+            "publicId": "1694971251472745:34040167",
+            "expected_hash": "e46eeeaebfb9a09a3580ab1fcc0a4b57",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971251395510:34040152",
+            "name": "Files/File_1694971251394613_34040150",
+            "flags": 1
+        }
+    },
+    "1694971251416373:34040158": {
+        "IFileManager": {
+            "path": "Files/File_1694971251416373_34040158.lsmat"
+        }
+    },
+    "1694971251472745:34040167": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Gizmos/hand_gizmo_unlit.lsmat",
+                "hash": "dfd1a8284da5499d10ebb70c58dfc026"
+            }
+        }
+    }
+}

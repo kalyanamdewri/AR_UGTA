@@ -1,0 +1,38 @@
+{
+    "1694971240125681:34034950": {
+        "IFileManager": {
+            "path": "Files/File_1694971240125681_34034950.js"
+        }
+    },
+    "1694971240128209:34034953": {
+        "IResourceController": {
+            "name": "worldmeshscript",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971240128375:34034954",
+            "fileId": "1694971240125681:34034950",
+            "publicId": "1694971240139010:34034964",
+            "expected_hash": "59361291686fd7cebf3981836238abbb"
+        },
+        "IResourceManager": {
+            "uid": "1694971240128375:34034954",
+            "name": "Files/File_1694971240125681_34034950.js",
+            "flags": 1
+        }
+    },
+    "1694971240128375:34034954": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1694971240139010:34034964": {
+        "IResourceController": {
+            "public": {
+                "path": "worldmeshscript.js",
+                "hash": "59361291686fd7cebf3981836238abbb"
+            }
+        }
+    }
+}

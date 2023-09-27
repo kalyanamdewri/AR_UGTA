@@ -1,0 +1,30 @@
+{
+    "1694950547298650:14229262": {
+        "IResourceController": {
+            "name": "Sitting Gun Motion",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1694950547296807:14228649",
+            "fileId": "1694950547356889:14229824",
+            "originalId": "1694951185640207:14545968",
+            "expected_hash": "4fd09d0cdad09ececda8e9a767efed3b"
+        },
+        "IResourceManager": {
+            "uid": "1694950547296807:14228649",
+            "name": "Sitting Gun Motion",
+            "flags": 0
+        }
+    },
+    "1694950547356889:14229824": {
+        "IFileManager": {
+            "path": "Files/File_1694950547356889_14229824.oprfb"
+        }
+    },
+    "1694951185640207:14545968": {
+        "IFileManager": {
+            "path": "Files/File_1694951185640207_14545968.oprfb"
+        }
+    }
+}

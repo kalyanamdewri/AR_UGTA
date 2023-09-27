@@ -1,0 +1,22 @@
+{
+    "1675112549279096:4389": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975596292:33858330",
+            "resources": [
+                "1675112549278862:4203"
+            ]
+        }
+    },
+    "1694970975596292:33858330": {
+        "IResourceController": {
+            "public": {
+                "path": "Elephant [REMOVE_ME]/Materials"
+            }
+        }
+    }
+}

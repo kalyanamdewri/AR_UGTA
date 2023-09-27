@@ -1,0 +1,125 @@
+{
+    "1694971250839042:34039787": {
+        "IFileManager": {
+            "path": "Files/File_1694971250839042_34039787.mesh"
+        }
+    },
+    "1694971250840164:34039790": {
+        "IResourceController": {
+            "name": "scarf",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250858674:34039792",
+            "fileId": "1694971250839042:34039787",
+            "publicId": "1694971250865249:34039804",
+            "expected_hash": "3ed155bf23ecc7f41507df9a2a48bedf",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250858674:34039792",
+            "name": "Files/File_1694971250839042_34039787.mesh",
+            "flags": 1
+        }
+    },
+    "1694971250858674:34039792": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "53692",
+                "compressedSize": "23101",
+                "extension": "mesh",
+                "originalRAM": "53692",
+                "originalSize": "23101",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694971250862107:34039803"
+        }
+    },
+    "1694971250862107:34039803": {
+        "IFileManager": {
+            "path": "Files/File_1694971250862107_34039803.mesh"
+        }
+    },
+    "1694971250865249:34039804": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Models/airplane/Meshes/scarf.mesh",
+                "hash": "3ed155bf23ecc7f41507df9a2a48bedf"
+            }
+        }
+    }
+}

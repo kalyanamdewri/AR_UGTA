@@ -1,0 +1,80 @@
+{
+    "1694971250737111:34039692": {
+        "IFileManager": {
+            "path": "Files/File_1694971250737111_34039692.pvr"
+        }
+    },
+    "1694971250737930:34039693": {
+        "IResourceController": {
+            "name": "red_panda_base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250738007:34039694",
+            "fileId": "1694971250737111:34039692",
+            "originalId": "1694971250738230:34039699",
+            "publicId": "1694971250746438:34039708",
+            "expected_hash": "4d6262d89d4bf08c1b612fdcad77a272",
+            "additional": {
+                "originHash": "4d7f9b2c8e55a3ec2aeaed7e425e6a5a",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250738007:34039694",
+            "name": "Files/File_1694971250737111_34039692.jpg",
+            "flags": 1
+        }
+    },
+    "1694971250738007:34039694": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4d7f9b2c8e55a3ec2aeaed7e425e6a5a"
+                    },
+                    "v": "1694971280759617:34062111"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "10175",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "8668",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1694971250743279:34039705"
+        }
+    },
+    "1694971250738230:34039699": {
+        "IFileManager": {
+            "path": "Files/File_1694971250738230_34039699.png"
+        }
+    },
+    "1694971250743279:34039705": {
+        "IFileManager": {
+            "path": "Files/File_1694971250743279_34039705.png"
+        }
+    },
+    "1694971250746438:34039708": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Textures/red_panda_base.png",
+                "hash": "4d7f9b2c8e55a3ec2aeaed7e425e6a5a"
+            }
+        }
+    },
+    "1694971280759617:34062111": {
+        "IFileManager": {
+            "path": "Files/File_1694971280759617_34062111.pvr"
+        }
+    }
+}

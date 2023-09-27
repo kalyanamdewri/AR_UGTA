@@ -1,0 +1,79 @@
+{
+    "1694948155630740:13344188": {
+        "IFileManager": {
+            "path": "Files/File_1694948155630740_13344188.pvr"
+        }
+    },
+    "1694948155633269:13344189": {
+        "IResourceController": {
+            "name": "ketchup_table_color",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948155633388:13344190",
+            "fileId": "1694948155630740:13344188",
+            "originalId": "1694948155633898:13344195",
+            "publicId": "1694970975622193:33858355",
+            "expected_hash": "c660d4e38e66a79ff48baae9f1b1133d",
+            "additional": {
+                "originHash": "bde8764b23df25c7acac42c462c5e569"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694948155633388:13344190",
+            "name": "Files/File_1694948155630740_13344188.jpg",
+            "flags": 1
+        }
+    },
+    "1694948155633388:13344190": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "bde8764b23df25c7acac42c462c5e569"
+                    },
+                    "v": "1694948374301549:13456542"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "29372",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "18973",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1694948155651508:13344203"
+        }
+    },
+    "1694948155633898:13344195": {
+        "IFileManager": {
+            "path": "Files/File_1694948155633898_13344195.png"
+        }
+    },
+    "1694948155651508:13344203": {
+        "IFileManager": {
+            "path": "Files/File_1694948155651508_13344203.png"
+        }
+    },
+    "1694948374301549:13456542": {
+        "IFileManager": {
+            "path": "Files/File_1694948374301549_13456542.pvr"
+        }
+    },
+    "1694970975622193:33858355": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Textures/ketchup_table_color.png",
+                "hash": "bde8764b23df25c7acac42c462c5e569"
+            }
+        }
+    }
+}

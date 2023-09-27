@@ -1,0 +1,22 @@
+{
+    "1694948158867149:13345519": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975637077:33858385",
+            "resources": [
+                "1694948158628688:13345507"
+            ]
+        }
+    },
+    "1694970975637077:33858385": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/ketchup_table/Material"
+            }
+        }
+    }
+}

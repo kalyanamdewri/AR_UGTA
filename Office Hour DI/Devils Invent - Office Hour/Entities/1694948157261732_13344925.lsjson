@@ -1,0 +1,125 @@
+{
+    "1694948157259956:13344922": {
+        "IFileManager": {
+            "path": "Files/File_1694948157259956_13344922.mesh"
+        }
+    },
+    "1694948157261732:13344925": {
+        "IResourceController": {
+            "name": "L_drawer3_GEO",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948157280245:13344927",
+            "fileId": "1694948157259956:13344922",
+            "publicId": "1694970975665837:33858438",
+            "expected_hash": "9fd643bc1b77aefdfc167dcb8531e8de",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694948157280245:13344927",
+            "name": "Files/File_1694948157259956_13344922.mesh",
+            "flags": 1
+        }
+    },
+    "1694948157280245:13344927": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "8116",
+                "compressedSize": "3656",
+                "extension": "mesh",
+                "originalRAM": "8116",
+                "originalSize": "3656",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694948157282572:13344938"
+        }
+    },
+    "1694948157282572:13344938": {
+        "IFileManager": {
+            "path": "Files/File_1694948157282572_13344938.mesh"
+        }
+    },
+    "1694970975665837:33858438": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/desk/Meshes/L_drawer3_GEO.mesh",
+                "hash": "9fd643bc1b77aefdfc167dcb8531e8de"
+            }
+        }
+    }
+}

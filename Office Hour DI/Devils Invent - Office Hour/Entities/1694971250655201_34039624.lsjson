@@ -1,0 +1,80 @@
+{
+    "1694971250654405:34039623": {
+        "IFileManager": {
+            "path": "Files/File_1694971250654405_34039623.pvr"
+        }
+    },
+    "1694971250655201:34039624": {
+        "IResourceController": {
+            "name": "smoke_texture",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250655275:34039625",
+            "fileId": "1694971250654405:34039623",
+            "originalId": "1694971250655492:34039630",
+            "publicId": "1694971250662099:34039637",
+            "expected_hash": "8fec9a40f85b3b9a0cd684554048c63d",
+            "additional": {
+                "originHash": "a94e1ec5c99c8af36f73fa912208a5ab",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250655275:34039625",
+            "name": "Files/File_1694971250654405_34039623.jpg",
+            "flags": 1
+        }
+    },
+    "1694971250655275:34039625": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "1025",
+                        "uncompressed_hash": "a94e1ec5c99c8af36f73fa912208a5ab"
+                    },
+                    "v": "1694971281021790:34062155"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "2048",
+                "compressedSize": "1090",
+                "extension": "png",
+                "originalRAM": "16384",
+                "originalSize": "754",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "1",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1694971250659559:34039636"
+        }
+    },
+    "1694971250655492:34039630": {
+        "IFileManager": {
+            "path": "Files/File_1694971250655492_34039630.png"
+        }
+    },
+    "1694971250659559:34039636": {
+        "IFileManager": {
+            "path": "Files/File_1694971250659559_34039636.png"
+        }
+    },
+    "1694971250662099:34039637": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Textures/smoke_texture.png",
+                "hash": "a94e1ec5c99c8af36f73fa912208a5ab"
+            }
+        }
+    },
+    "1694971281021790:34062155": {
+        "IFileManager": {
+            "path": "Files/File_1694971281021790_34062155.pvr"
+        }
+    }
+}

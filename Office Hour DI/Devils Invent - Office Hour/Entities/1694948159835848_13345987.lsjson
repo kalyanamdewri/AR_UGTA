@@ -1,0 +1,39 @@
+{
+    "1694948159832517:13345986": {
+        "IFileManager": {
+            "path": "Files/File_1694948159832517_13345986"
+        }
+    },
+    "1694948159835848:13345987": {
+        "IResourceController": {
+            "name": "sofa",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948159835852:13345988",
+            "fileId": "1694948159832517:13345986",
+            "originalId": "1694948159888075:13345994",
+            "publicId": "1694970975634824:33858381",
+            "expected_hash": "83564c310d101bb60e2e7b41bbbe5141"
+        },
+        "IResourceManager": {
+            "uid": "1694948159835852:13345988",
+            "name": "Files/File_1694948159832517_13345986",
+            "flags": 1
+        }
+    },
+    "1694948159888075:13345994": {
+        "IFileManager": {
+            "path": "Files/File_1694948159888075_13345994.lsmat"
+        }
+    },
+    "1694970975634824:33858381": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/sofa/Material/sofa.lsmat",
+                "hash": "ffcf25ddcd6dd271172543b61c4091df"
+            }
+        }
+    }
+}

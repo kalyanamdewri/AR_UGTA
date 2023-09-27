@@ -1,0 +1,80 @@
+{
+    "1694971250294093:34039215": {
+        "IFileManager": {
+            "path": "Files/File_1694971250294093_34039215.pvr"
+        }
+    },
+    "1694971250294950:34039216": {
+        "IResourceController": {
+            "name": "propeller",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250295059:34039217",
+            "fileId": "1694971250294093:34039215",
+            "originalId": "1694971250295281:34039222",
+            "publicId": "1694971250303374:34039234",
+            "expected_hash": "7cb87c8266602a8c64ce650fc80f9a7e",
+            "additional": {
+                "originHash": "7d0d99e9c72d615273993ba37f9db2b9",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250295059:34039217",
+            "name": "Files/File_1694971250294093_34039215.jpg",
+            "flags": 1
+        }
+    },
+    "1694971250295059:34039217": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "7d0d99e9c72d615273993ba37f9db2b9"
+                    },
+                    "v": "1694971284074905:34083996"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "8192",
+                "compressedSize": "8971",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "3825",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1694971250299828:34039233"
+        }
+    },
+    "1694971250295281:34039222": {
+        "IFileManager": {
+            "path": "Files/File_1694971250295281_34039222.png"
+        }
+    },
+    "1694971250299828:34039233": {
+        "IFileManager": {
+            "path": "Files/File_1694971250299828_34039233.png"
+        }
+    },
+    "1694971250303374:34039234": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Textures/propeller.png",
+                "hash": "7d0d99e9c72d615273993ba37f9db2b9"
+            }
+        }
+    },
+    "1694971284074905:34083996": {
+        "IFileManager": {
+            "path": "Files/File_1694971284074905_34083996.pvr"
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "1694948156431403:13344522": {
+        "IFileManager": {
+            "path": "Files/File_1694948156431403_13344522.mesh"
+        }
+    },
+    "1694948156434924:13344523": {
+        "IResourceController": {
+            "name": "C_stool_wooden_GEO",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948156467939:13344527",
+            "fileId": "1694948156431403:13344522",
+            "publicId": "1694970975642256:33858394",
+            "expected_hash": "1f9400177d1b34aba3b503c63ffb8d79",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694948156467939:13344527",
+            "name": "Files/File_1694948156431403_13344522.mesh",
+            "flags": 1
+        }
+    },
+    "1694948156467939:13344527": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "21392",
+                "compressedSize": "9461",
+                "extension": "mesh",
+                "originalRAM": "21392",
+                "originalSize": "9461",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694948156477792:13344542"
+        }
+    },
+    "1694948156477792:13344542": {
+        "IFileManager": {
+            "path": "Files/File_1694948156477792_13344542.mesh"
+        }
+    },
+    "1694970975642256:33858394": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/stool_wooden/Meshes/C_stool_wooden_GEO.mesh",
+                "hash": "1f9400177d1b34aba3b503c63ffb8d79"
+            }
+        }
+    }
+}

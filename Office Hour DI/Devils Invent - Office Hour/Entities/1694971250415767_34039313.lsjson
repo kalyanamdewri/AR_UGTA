@@ -1,0 +1,80 @@
+{
+    "1694971250413998:34039312": {
+        "IFileManager": {
+            "path": "Files/File_1694971250413998_34039312.pvr"
+        }
+    },
+    "1694971250415767:34039313": {
+        "IResourceController": {
+            "name": "cloud_two",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250415878:34039314",
+            "fileId": "1694971250413998:34039312",
+            "originalId": "1694971250416329:34039319",
+            "publicId": "1694971250425884:34039328",
+            "expected_hash": "690f992534b35d9df11bc45fd67afee7",
+            "additional": {
+                "originHash": "c8d675dc6ab930a3c93a3021684a408b",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250415878:34039314",
+            "name": "Files/File_1694971250413998_34039312.jpg",
+            "flags": 1
+        }
+    },
+    "1694971250415878:34039314": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c8d675dc6ab930a3c93a3021684a408b"
+                    },
+                    "v": "1694971287023780:34099880"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "32768",
+                "compressedSize": "2605",
+                "extension": "png",
+                "originalRAM": "262144",
+                "originalSize": "2339",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1694971250423129:34039327"
+        }
+    },
+    "1694971250416329:34039319": {
+        "IFileManager": {
+            "path": "Files/File_1694971250416329_34039319.png"
+        }
+    },
+    "1694971250423129:34039327": {
+        "IFileManager": {
+            "path": "Files/File_1694971250423129_34039327.png"
+        }
+    },
+    "1694971250425884:34039328": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Textures/cloud_two.png",
+                "hash": "c8d675dc6ab930a3c93a3021684a408b"
+            }
+        }
+    },
+    "1694971287023780:34099880": {
+        "IFileManager": {
+            "path": "Files/File_1694971287023780_34099880.pvr"
+        }
+    }
+}

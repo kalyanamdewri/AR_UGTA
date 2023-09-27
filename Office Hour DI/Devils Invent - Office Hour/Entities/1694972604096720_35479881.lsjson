@@ -1,0 +1,39 @@
+{
+    "1694972604094588:35479880": {
+        "IFileManager": {
+            "path": "Files/File_1694972604094588_35479880"
+        }
+    },
+    "1694972604096720:35479881": {
+        "IResourceController": {
+            "name": "Ch02_body 2",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694972604096837:35479882",
+            "fileId": "1694972604094588:35479880",
+            "originalId": "1694972604127507:35479896",
+            "publicId": "1694972604243150:35479911",
+            "expected_hash": "9f1ac1766fe4cbaf1da4d979b7dbd8b4"
+        },
+        "IResourceManager": {
+            "uid": "1694972604096837:35479882",
+            "name": "Files/File_1694972604094588_35479880",
+            "flags": 1
+        }
+    },
+    "1694972604127507:35479896": {
+        "IFileManager": {
+            "path": "Files/File_1694972604127507_35479896.lsmat"
+        }
+    },
+    "1694972604243150:35479911": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/student/Materials/Ch02_body 2.lsmat",
+                "hash": "51dce23b7508c9b0bc602625cc52fa98"
+            }
+        }
+    }
+}

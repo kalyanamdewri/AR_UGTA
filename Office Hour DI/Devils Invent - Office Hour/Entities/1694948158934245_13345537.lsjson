@@ -1,0 +1,39 @@
+{
+    "1694948158932904:13345536": {
+        "IFileManager": {
+            "path": "Files/File_1694948158932904_13345536"
+        }
+    },
+    "1694948158934245:13345537": {
+        "IResourceController": {
+            "name": "labtable",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948158934248:13345538",
+            "fileId": "1694948158932904:13345536",
+            "originalId": "1694948158996732:13345544",
+            "publicId": "1694970975632244:33858376",
+            "expected_hash": "83564c310d101bb60e2e7b41bbbe5141"
+        },
+        "IResourceManager": {
+            "uid": "1694948158934248:13345538",
+            "name": "Files/File_1694948158932904_13345536",
+            "flags": 1
+        }
+    },
+    "1694948158996732:13345544": {
+        "IFileManager": {
+            "path": "Files/File_1694948158996732_13345544.lsmat"
+        }
+    },
+    "1694970975632244:33858376": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/table/Material/labtable.lsmat",
+                "hash": "6e7d0187ef441e8b5c8debe04c06cdaa"
+            }
+        }
+    }
+}

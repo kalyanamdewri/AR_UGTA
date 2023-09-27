@@ -1,0 +1,23 @@
+{
+    "1694948156475882:13344537": {
+        "IResourceController": {
+            "name": "stool_wooden",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975641481:33858392",
+            "resources": [
+                "1694948156476520:13344539",
+                "1694948160630059:13346260"
+            ]
+        }
+    },
+    "1694970975641481:33858392": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/stool_wooden"
+            }
+        }
+    }
+}

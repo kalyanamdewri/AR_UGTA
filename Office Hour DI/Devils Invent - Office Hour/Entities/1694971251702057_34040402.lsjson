@@ -1,0 +1,17 @@
+{
+    "1694971251702057:34040402": {
+        "IResourceController": {
+            "name": "Hand Segmentation",
+            "type": 1,
+            "subtype": 23,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971251701068:34040397"
+        },
+        "IResourceManager": {
+            "uid": "1694971251701068:34040397",
+            "name": "Hand Segmentation",
+            "flags": 0
+        }
+    }
+}

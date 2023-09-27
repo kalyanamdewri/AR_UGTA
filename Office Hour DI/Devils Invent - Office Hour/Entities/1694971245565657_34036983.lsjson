@@ -1,0 +1,38 @@
+{
+    "1694971245559713:34036982": {
+        "IFileManager": {
+            "path": "Files/File_1694971245559713_34036982.js"
+        }
+    },
+    "1694971245565657:34036983": {
+        "IResourceController": {
+            "name": "WorldParticleController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971245565683:34036984",
+            "fileId": "1694971245559713:34036982",
+            "publicId": "1694971245579926:34036994",
+            "expected_hash": "b1e241be3b95d010908a572f4bcd67d4"
+        },
+        "IResourceManager": {
+            "uid": "1694971245565683:34036984",
+            "name": "Files/File_1694971245559713_34036982.js",
+            "flags": 1
+        }
+    },
+    "1694971245565683:34036984": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1694971245579926:34036994": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/WorldParticleController.js",
+                "hash": "b1e241be3b95d010908a572f4bcd67d4"
+            }
+        }
+    }
+}

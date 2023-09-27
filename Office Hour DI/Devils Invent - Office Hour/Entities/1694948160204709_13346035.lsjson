@@ -1,0 +1,39 @@
+{
+    "1694948160203724:13346034": {
+        "IFileManager": {
+            "path": "Files/File_1694948160203724_13346034"
+        }
+    },
+    "1694948160204709:13346035": {
+        "IResourceController": {
+            "name": "stool",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948160204713:13346036",
+            "fileId": "1694948160203724:13346034",
+            "originalId": "1694948160249426:13346096",
+            "publicId": "1694970975640819:33858391",
+            "expected_hash": "83564c310d101bb60e2e7b41bbbe5141"
+        },
+        "IResourceManager": {
+            "uid": "1694948160204713:13346036",
+            "name": "Files/File_1694948160203724_13346034",
+            "flags": 1
+        }
+    },
+    "1694948160249426:13346096": {
+        "IFileManager": {
+            "path": "Files/File_1694948160249426_13346096.lsmat"
+        }
+    },
+    "1694970975640819:33858391": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/stool/Material/stool.lsmat",
+                "hash": "a67d4717266b13705fd03d8a4598e326"
+            }
+        }
+    }
+}

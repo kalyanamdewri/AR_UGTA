@@ -1,0 +1,39 @@
+{
+    "1694971248731296:34038420": {
+        "IFileManager": {
+            "path": "Files/File_1694971248731296_34038420"
+        }
+    },
+    "1694971248732175:34038421": {
+        "IResourceController": {
+            "name": "glass",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971248732179:34038422",
+            "fileId": "1694971248731296:34038420",
+            "originalId": "1694971248754224:34038435",
+            "publicId": "1694971248834301:34038444",
+            "expected_hash": "e7fc36df68917cbc90c579761d2f9d6d"
+        },
+        "IResourceManager": {
+            "uid": "1694971248732179:34038422",
+            "name": "Files/File_1694971248731296_34038420",
+            "flags": 1
+        }
+    },
+    "1694971248754224:34038435": {
+        "IFileManager": {
+            "path": "Files/File_1694971248754224_34038435.lsmat"
+        }
+    },
+    "1694971248834301:34038444": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Materials/glass.lsmat",
+                "hash": "92d53669e8563a2d8e1d53f78b876f4a"
+            }
+        }
+    }
+}

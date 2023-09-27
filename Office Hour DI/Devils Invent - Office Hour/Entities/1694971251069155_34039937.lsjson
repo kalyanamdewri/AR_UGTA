@@ -1,0 +1,115 @@
+{
+    "1694971251068051:34039936": {
+        "IFileManager": {
+            "path": "Files/File_1694971251068051_34039936.mesh"
+        }
+    },
+    "1694971251069155:34039937": {
+        "IResourceController": {
+            "name": "red_panda_lo",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971251087225:34039941",
+            "fileId": "1694971251068051:34039936",
+            "publicId": "1694971251096332:34039953",
+            "expected_hash": "9482fc6be76615e0ac81cc6e97b1d97b",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971251087225:34039941",
+            "name": "Files/File_1694971251068051_34039936.mesh",
+            "flags": 1
+        }
+    },
+    "1694971251087225:34039941": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "157788",
+                "compressedSize": "87527",
+                "extension": "mesh",
+                "originalRAM": "157788",
+                "originalSize": "87527",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694971251090336:34039952"
+        }
+    },
+    "1694971251090336:34039952": {
+        "IFileManager": {
+            "path": "Files/File_1694971251090336_34039952.mesh"
+        }
+    },
+    "1694971251096332:34039953": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Models/airplane/Meshes/red_panda_lo.mesh",
+                "hash": "9482fc6be76615e0ac81cc6e97b1d97b"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1694948153302499:13343486": {
+        "IResourceController": {
+            "name": "BitmojiHome__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948153302055:13343483",
+            "fileId": "1694948153334423:13343498",
+            "originalId": "1694951185583963:14545529",
+            "publicId": "1694970975668628:33858444",
+            "expected_hash": "2edf0e4497bf09fe8714f8dd1e026df1"
+        },
+        "IResourceManager": {
+            "uid": "1694948153302055:13343483",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1694948153334423:13343498": {
+        "IFileManager": {
+            "path": "Files/File_1694948153334423_13343498.oprfb"
+        }
+    },
+    "1694951185583963:14545529": {
+        "IFileManager": {
+            "path": "Files/File_1694951185583963_14545529.oprfb"
+        }
+    },
+    "1694970975668628:33858444": {
+        "IResourceController": {
+            "public": {
+                "path": "BitmojiHome__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "fb735d227701fd2684669537c5bfd5b9"
+            }
+        }
+    }
+}

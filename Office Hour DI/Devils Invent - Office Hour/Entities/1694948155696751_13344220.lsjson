@@ -1,0 +1,79 @@
+{
+    "1694948155693671:13344219": {
+        "IFileManager": {
+            "path": "Files/File_1694948155693671_13344219.pvr"
+        }
+    },
+    "1694948155696751:13344220": {
+        "IResourceController": {
+            "name": "picture_frame_color",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948155696859:13344221",
+            "fileId": "1694948155693671:13344219",
+            "originalId": "1694948155697113:13344226",
+            "publicId": "1694970975622830:33858356",
+            "expected_hash": "dd026962ac84b152afaee39740c66e9c",
+            "additional": {
+                "originHash": "811529ca570ee2007bf0bac7a7a6828f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694948155696859:13344221",
+            "name": "Files/File_1694948155693671_13344219.jpg",
+            "flags": 1
+        }
+    },
+    "1694948155696859:13344221": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "811529ca570ee2007bf0bac7a7a6828f"
+                    },
+                    "v": "1694948381831658:13461574"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "131072",
+                "compressedSize": "47372",
+                "extension": "png",
+                "originalRAM": "1048576",
+                "originalSize": "55613",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1694948155713729:13344234"
+        }
+    },
+    "1694948155697113:13344226": {
+        "IFileManager": {
+            "path": "Files/File_1694948155697113_13344226.png"
+        }
+    },
+    "1694948155713729:13344234": {
+        "IFileManager": {
+            "path": "Files/File_1694948155713729_13344234.png"
+        }
+    },
+    "1694948381831658:13461574": {
+        "IFileManager": {
+            "path": "Files/File_1694948381831658_13461574.pvr"
+        }
+    },
+    "1694970975622830:33858356": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Textures/picture_frame_color.png",
+                "hash": "811529ca570ee2007bf0bac7a7a6828f"
+            }
+        }
+    }
+}

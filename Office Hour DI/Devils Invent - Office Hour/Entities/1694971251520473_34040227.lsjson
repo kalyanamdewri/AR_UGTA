@@ -1,0 +1,22 @@
+{
+    "1694971251520473:34040227": {
+        "IResourceController": {
+            "name": "Fonts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694971251520616:34040228",
+            "resources": [
+                "1694971251518334:34040216"
+            ]
+        }
+    },
+    "1694971251520616:34040228": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Fonts"
+            }
+        }
+    }
+}

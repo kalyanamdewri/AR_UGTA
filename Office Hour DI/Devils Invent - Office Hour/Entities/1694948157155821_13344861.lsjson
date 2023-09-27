@@ -1,0 +1,23 @@
+{
+    "1694948157155821:13344861": {
+        "IResourceController": {
+            "name": "desk",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975663688:33858433",
+            "resources": [
+                "1694948157156806:13344863",
+                "1694948161524802:13346624"
+            ]
+        }
+    },
+    "1694970975663688:33858433": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/desk"
+            }
+        }
+    }
+}

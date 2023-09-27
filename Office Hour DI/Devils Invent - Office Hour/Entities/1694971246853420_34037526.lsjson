@@ -1,0 +1,43 @@
+{
+    "1694971246849772:34037523": {
+        "IFileManager": {
+            "path": "Files/File_1694971246849772_34037523"
+        }
+    },
+    "1694971246853420:34037526": {
+        "IResourceController": {
+            "name": "math-graph",
+            "type": 1,
+            "subtype": 5,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971246854930:34037529",
+            "fileId": "1694971246849772:34037523",
+            "originalId": "1694971246866338:34037536",
+            "publicId": "1694971246888747:34037544",
+            "expected_hash": "e5477bf09522481a27309fc9e9266c33",
+            "additional": {
+                "subtype": "5"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971246854930:34037529",
+            "name": "Files/File_1694971246849772_34037523",
+            "flags": 1
+        }
+    },
+    "1694971246866338:34037536": {
+        "IFileManager": {
+            "path": "Files/File_1694971246866338_34037536"
+        }
+    },
+    "1694971246888747:34037544": {
+        "IResourceController": {
+            "public": {
+                "path": "math-graph",
+                "hash": "e5477bf09522481a27309fc9e9266c33",
+                "complexResourceHash": "7613c280a82c5cb4c08fb5f49acc6591"
+            }
+        }
+    }
+}

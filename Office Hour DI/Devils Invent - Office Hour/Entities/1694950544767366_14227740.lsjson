@@ -1,0 +1,66 @@
+{
+    "1694950544766356:14227739": {
+        "IFileManager": {
+            "path": "Files/File_1694950544766356_14227739.png"
+        }
+    },
+    "1694950544767366:14227740": {
+        "IResourceController": {
+            "name": "Ch02_1002_Diffuse",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694950544769000:14227741",
+            "fileId": "1694950544766356:14227739",
+            "originalId": "1694950544769226:14227746",
+            "publicId": "1694970975815548:33858451",
+            "expected_hash": "8a7e744a24e6db7730899f9349dad565",
+            "additional": {
+                "originHash": "8a7e744a24e6db7730899f9349dad565"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694950544769000:14227741",
+            "name": "Files/File_1694950544766356_14227739.jpg",
+            "flags": 1
+        }
+    },
+    "1694950544769000:14227741": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "3915886",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "3915886",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694950544804782:14227758"
+        }
+    },
+    "1694950544769226:14227746": {
+        "IFileManager": {
+            "path": "Files/File_1694950544769226_14227746.png"
+        }
+    },
+    "1694950544804782:14227758": {
+        "IFileManager": {
+            "path": "Files/File_1694950544804782_14227758.png"
+        }
+    },
+    "1694970975815548:33858451": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/student/Textures/Ch02_1002_Diffuse.png",
+                "hash": "8a7e744a24e6db7730899f9349dad565"
+            }
+        }
+    }
+}

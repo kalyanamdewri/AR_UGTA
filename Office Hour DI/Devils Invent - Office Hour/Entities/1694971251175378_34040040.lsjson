@@ -1,0 +1,25 @@
+{
+    "1694971251175378:34040040": {
+        "IResourceController": {
+            "name": "Animations",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694971251175542:34040041",
+            "resources": [
+                "1694971251175029:34040036",
+                "1694971251177691:34040043",
+                "1694971251179153:34040048",
+                "1694971251180304:34040053"
+            ]
+        }
+    },
+    "1694971251175542:34040041": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Models/airplane/Animations"
+            }
+        }
+    }
+}

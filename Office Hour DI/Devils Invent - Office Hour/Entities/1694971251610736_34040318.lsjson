@@ -1,0 +1,20 @@
+{
+    "1694971251610736:34040318": {
+        "IResourceController": {
+            "name": "Mask Camera Render Target",
+            "type": 1,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971251610731:34040317",
+            "additional": {
+                "RenderTargetRole": "2"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971251610731:34040317",
+            "name": "Render Target",
+            "flags": 0
+        }
+    }
+}

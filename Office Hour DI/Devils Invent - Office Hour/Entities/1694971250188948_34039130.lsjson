@@ -1,0 +1,43 @@
+{
+    "1694971250188094:34039129": {
+        "IFileManager": {
+            "path": "Files/File_1694971250188094_34039129.png"
+        }
+    },
+    "1694971250188948:34039130": {
+        "IResourceController": {
+            "name": "cr_color_blend",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250189156:34039131",
+            "fileId": "1694971250188094:34039129",
+            "originalId": "1694971250189351:34039136",
+            "publicId": "1694971250194111:34039144",
+            "expected_hash": "d1ec644db88f42db4aadc1b964b3f298",
+            "additional": {
+                "originHash": "d1ec644db88f42db4aadc1b964b3f298",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250189156:34039131",
+            "name": "Files/File_1694971250188094_34039129.jpg",
+            "flags": 1
+        }
+    },
+    "1694971250189351:34039136": {
+        "IFileManager": {
+            "path": "Files/File_1694971250189351_34039136.png"
+        }
+    },
+    "1694971250194111:34039144": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Textures/cr_color_blend.png",
+                "hash": "d1ec644db88f42db4aadc1b964b3f298"
+            }
+        }
+    }
+}

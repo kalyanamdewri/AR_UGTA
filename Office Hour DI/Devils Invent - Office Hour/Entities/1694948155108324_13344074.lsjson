@@ -1,0 +1,79 @@
+{
+    "1694948155106421:13344073": {
+        "IFileManager": {
+            "path": "Files/File_1694948155106421_13344073.pvr"
+        }
+    },
+    "1694948155108324:13344074": {
+        "IResourceController": {
+            "name": "stool_color",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948155108547:13344075",
+            "fileId": "1694948155106421:13344073",
+            "originalId": "1694948155109187:13344080",
+            "publicId": "1694970975619277:33858350",
+            "expected_hash": "dc6923e451a989ad90be63fd6e14a866",
+            "additional": {
+                "originHash": "c39de1eccafd6264ecb5455a50730517"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694948155108547:13344075",
+            "name": "Files/File_1694948155106421_13344073.jpg",
+            "flags": 1
+        }
+    },
+    "1694948155108547:13344075": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "c39de1eccafd6264ecb5455a50730517"
+                    },
+                    "v": "1694948242775140:13400106"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "31474",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "19100",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1694948155124022:13344088"
+        }
+    },
+    "1694948155109187:13344080": {
+        "IFileManager": {
+            "path": "Files/File_1694948155109187_13344080.png"
+        }
+    },
+    "1694948155124022:13344088": {
+        "IFileManager": {
+            "path": "Files/File_1694948155124022_13344088.png"
+        }
+    },
+    "1694948242775140:13400106": {
+        "IFileManager": {
+            "path": "Files/File_1694948242775140_13400106.pvr"
+        }
+    },
+    "1694970975619277:33858350": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Textures/stool_color.png",
+                "hash": "c39de1eccafd6264ecb5455a50730517"
+            }
+        }
+    }
+}

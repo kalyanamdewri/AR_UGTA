@@ -1,0 +1,17 @@
+{
+    "1694950544500708:14227332": {
+        "IResourceController": {
+            "name": "mixamorig_LeftHandRing2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1694950544500708:14227331"
+        },
+        "IResourceManager": {
+            "uid": "1694950544500708:14227331",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

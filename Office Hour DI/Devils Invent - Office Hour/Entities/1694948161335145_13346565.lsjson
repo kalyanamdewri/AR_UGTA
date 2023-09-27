@@ -1,0 +1,39 @@
+{
+    "1694948161334327:13346564": {
+        "IFileManager": {
+            "path": "Files/File_1694948161334327_13346564"
+        }
+    },
+    "1694948161335145:13346565": {
+        "IResourceController": {
+            "name": "desk_MAT",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948161335148:13346566",
+            "fileId": "1694948161334327:13346564",
+            "originalId": "1694948161376228:13346572",
+            "publicId": "1694970975667792:33858443",
+            "expected_hash": "1021c2ec9eec333f89d35439b58c8eb7"
+        },
+        "IResourceManager": {
+            "uid": "1694948161335148:13346566",
+            "name": "Files/File_1694948161334327_13346564",
+            "flags": 1
+        }
+    },
+    "1694948161376228:13346572": {
+        "IFileManager": {
+            "path": "Files/File_1694948161376228_13346572.lsmat"
+        }
+    },
+    "1694970975667792:33858443": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/desk/Materials/desk_MAT.lsmat",
+                "hash": "f02f3c5822451e03e8f6a00bfbe8556e"
+            }
+        }
+    }
+}

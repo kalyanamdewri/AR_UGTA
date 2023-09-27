@@ -1,0 +1,38 @@
+{
+    "1694971251706009:34040418": {
+        "IFileManager": {
+            "path": "Files/File_1694971251706009_34040418.js"
+        }
+    },
+    "1694971251707045:34040421": {
+        "IResourceController": {
+            "name": "gestureControl",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971251707054:34040422",
+            "fileId": "1694971251706009:34040418",
+            "publicId": "1694971251710401:34040432",
+            "expected_hash": "d3fa2c1bb40f1b47a23c4d1c88a17c8b"
+        },
+        "IResourceManager": {
+            "uid": "1694971251707054:34040422",
+            "name": "Files/File_1694971251706009_34040418.js",
+            "flags": 1
+        }
+    },
+    "1694971251707054:34040422": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1694971251710401:34040432": {
+        "IResourceController": {
+            "public": {
+                "path": "gestureControl.js",
+                "hash": "d3fa2c1bb40f1b47a23c4d1c88a17c8b"
+            }
+        }
+    }
+}

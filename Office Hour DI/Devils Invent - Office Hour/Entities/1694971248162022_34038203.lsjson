@@ -1,0 +1,39 @@
+{
+    "1694971248161001:34038202": {
+        "IFileManager": {
+            "path": "Files/File_1694971248161001_34038202"
+        }
+    },
+    "1694971248162022:34038203": {
+        "IResourceController": {
+            "name": "goggles",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971248162026:34038204",
+            "fileId": "1694971248161001:34038202",
+            "originalId": "1694971248183033:34038210",
+            "publicId": "1694971248289995:34038217",
+            "expected_hash": "4c715e5c5d25a00a51a4140081c28173"
+        },
+        "IResourceManager": {
+            "uid": "1694971248162026:34038204",
+            "name": "Files/File_1694971248161001_34038202",
+            "flags": 1
+        }
+    },
+    "1694971248183033:34038210": {
+        "IFileManager": {
+            "path": "Files/File_1694971248183033_34038210.lsmat"
+        }
+    },
+    "1694971248289995:34038217": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Materials/goggles.lsmat",
+                "hash": "be4e7d1b286fa6432359472b7bab8b6d"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1694971247510167:34037939": {
+        "IFileManager": {
+            "path": "Files/File_1694971247510167_34037939"
+        }
+    },
+    "1694971247511049:34037940": {
+        "IResourceController": {
+            "name": "scarf",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971247511053:34037941",
+            "fileId": "1694971247510167:34037939",
+            "originalId": "1694971247531938:34037947",
+            "publicId": "1694971247630336:34037956",
+            "expected_hash": "52aa9209fc90a97df1ed1c458e20eb05"
+        },
+        "IResourceManager": {
+            "uid": "1694971247511053:34037941",
+            "name": "Files/File_1694971247510167_34037939",
+            "flags": 1
+        }
+    },
+    "1694971247531938:34037947": {
+        "IFileManager": {
+            "path": "Files/File_1694971247531938_34037947.lsmat"
+        }
+    },
+    "1694971247630336:34037956": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Materials/scarf.lsmat",
+                "hash": "f44e8fcc9452bdb5bc995bf51cefe382"
+            }
+        }
+    }
+}

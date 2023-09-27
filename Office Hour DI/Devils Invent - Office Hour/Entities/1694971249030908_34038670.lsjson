@@ -1,0 +1,42 @@
+{
+    "1694971249030012:34038669": {
+        "IFileManager": {
+            "path": "Files/File_1694971249030012_34038669"
+        }
+    },
+    "1694971249030908:34038670": {
+        "IResourceController": {
+            "name": "propeller",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971249030912:34038671",
+            "fileId": "1694971249030012:34038669",
+            "originalId": "1694971249053460:34038680",
+            "publicId": "1694971249112531:34038689",
+            "expected_hash": "e46eeeaebfb9a09a3580ab1fcc0a4b57",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971249030912:34038671",
+            "name": "Files/File_1694971249030012_34038669",
+            "flags": 1
+        }
+    },
+    "1694971249053460:34038680": {
+        "IFileManager": {
+            "path": "Files/File_1694971249053460_34038680.lsmat"
+        }
+    },
+    "1694971249112531:34038689": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Materials/propeller.lsmat",
+                "hash": "c8ab03e7e593e93a642b9b1a1bf2ed9e"
+            }
+        }
+    }
+}

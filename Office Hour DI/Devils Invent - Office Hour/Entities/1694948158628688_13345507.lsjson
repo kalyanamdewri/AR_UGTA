@@ -1,0 +1,39 @@
+{
+    "1694948158627027:13345506": {
+        "IFileManager": {
+            "path": "Files/File_1694948158627027_13345506"
+        }
+    },
+    "1694948158628688:13345507": {
+        "IResourceController": {
+            "name": "ketchup_table",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948158628692:13345508",
+            "fileId": "1694948158627027:13345506",
+            "originalId": "1694948158670056:13345512",
+            "publicId": "1694970975637518:33858386",
+            "expected_hash": "83564c310d101bb60e2e7b41bbbe5141"
+        },
+        "IResourceManager": {
+            "uid": "1694948158628692:13345508",
+            "name": "Files/File_1694948158627027_13345506",
+            "flags": 1
+        }
+    },
+    "1694948158670056:13345512": {
+        "IFileManager": {
+            "path": "Files/File_1694948158670056_13345512.lsmat"
+        }
+    },
+    "1694970975637518:33858386": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/ketchup_table/Material/ketchup_table.lsmat",
+                "hash": "41eabb7049983ddc7f6859a95557912a"
+            }
+        }
+    }
+}

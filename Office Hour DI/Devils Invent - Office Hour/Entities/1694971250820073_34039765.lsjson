@@ -1,0 +1,23 @@
+{
+    "1694971250820073:34039765": {
+        "IResourceController": {
+            "name": "airplane",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694971250820191:34039766",
+            "resources": [
+                "1694971250820427:34039767",
+                "1694971251175378:34040040"
+            ]
+        }
+    },
+    "1694971250820191:34039766": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Models/airplane"
+            }
+        }
+    }
+}

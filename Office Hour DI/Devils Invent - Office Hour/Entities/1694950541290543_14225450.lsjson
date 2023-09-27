@@ -1,0 +1,56 @@
+{
+    "1694950541290543:14225450": {
+        "IResourceController": {
+            "name": "student",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1694950547427311:14229856",
+            "publicId": "1694970975671067:33858449",
+            "expected_hash": "1c94be5589799ed1bc9920fd594145f5",
+            "resources": [
+                "1694950544322122:14226994",
+                "1694950544493089:14227139",
+                "1694950544510377:14227619",
+                "1694950546419830:14227861",
+                "1694950547298650:14229262"
+            ],
+            "additional": {
+                "ImportParams": {
+                    "animationCurveOptimization": "true",
+                    "generatePivots": "true",
+                    "importBlendShapeAnimation": "true",
+                    "importTangents": "true",
+                    "importVertexAnimation": "true",
+                    "importVertexColor": "true",
+                    "recalculateTangents": "false",
+                    "regenerateNormalsForSkinned": "true"
+                },
+                "materialMapping": [
+                    {
+                        "k": "Ch02_body",
+                        "v": "1694950546421111:14227864"
+                    },
+                    {
+                        "k": "Ch02_hair",
+                        "v": "1694950546931350:14228137"
+                    }
+                ]
+            }
+        }
+    },
+    "1694950547427311:14229856": {
+        "IFileManager": {
+            "path": "Files/File_1694950547427311_14229856.fbx"
+        }
+    },
+    "1694970975671067:33858449": {
+        "IResourceController": {
+            "public": {
+                "path": "student.fbx",
+                "hash": "1c94be5589799ed1bc9920fd594145f5"
+            }
+        }
+    }
+}

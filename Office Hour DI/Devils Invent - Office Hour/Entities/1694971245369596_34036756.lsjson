@@ -1,0 +1,24 @@
+{
+    "1694971245369596:34036756": {
+        "IResourceController": {
+            "name": "Tween",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694971245369809:34036757",
+            "resources": [
+                "1694971245364680:34036745",
+                "1694971245382055:34036766",
+                "1694971245407195:34036797"
+            ]
+        }
+    },
+    "1694971245369809:34036757": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helper Scripts/Tween"
+            }
+        }
+    }
+}

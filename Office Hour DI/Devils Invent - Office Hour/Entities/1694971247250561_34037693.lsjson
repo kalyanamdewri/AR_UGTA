@@ -1,0 +1,124 @@
+{
+    "1694971247249246:34037692": {
+        "IFileManager": {
+            "path": "Files/File_1694971247249246_34037692.mesh"
+        }
+    },
+    "1694971247250561:34037693": {
+        "IResourceController": {
+            "name": "particles_mesh",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971247269841:34037697",
+            "fileId": "1694971247249246:34037692",
+            "publicId": "1694971247277415:34037709",
+            "expected_hash": "9cf6125d8ce9ba874fe0ff27b21b2323",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "0",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "2",
+                            "semantic": "color"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "2",
+                            "semantic": "texture0"
+                        }
+                    ]
+                },
+                "originalAttribs": {
+                    "vertexAttribs": [
+                        {
+                            "format": "0",
+                            "index": "0",
+                            "semantic": "position"
+                        },
+                        {
+                            "format": "2",
+                            "index": "1",
+                            "semantic": "color"
+                        },
+                        {
+                            "format": "2",
+                            "index": "2",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971247269841:34037697",
+            "name": "Files/File_1694971247249246_34037692.mesh",
+            "flags": 1
+        }
+    },
+    "1694971247269841:34037697": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "59940",
+                "compressedSize": "19744",
+                "extension": "mesh",
+                "originalRAM": "59940",
+                "originalSize": "19744",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "0",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "2",
+                                "semantic": "color"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "2",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694971247272819:34037708"
+        }
+    },
+    "1694971247272819:34037708": {
+        "IFileManager": {
+            "path": "Files/File_1694971247272819_34037708.mesh"
+        }
+    },
+    "1694971247277415:34037709": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Particles/particles_mesh.mesh",
+                "hash": "9cf6125d8ce9ba874fe0ff27b21b2323"
+            }
+        }
+    }
+}

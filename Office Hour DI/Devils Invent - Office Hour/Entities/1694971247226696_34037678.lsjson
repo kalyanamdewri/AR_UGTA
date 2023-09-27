@@ -1,0 +1,23 @@
+{
+    "1694971247226696:34037678": {
+        "IResourceController": {
+            "name": "Particles",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694971247226825:34037679",
+            "resources": [
+                "1694971247135316:34037662",
+                "1694971247250561:34037693"
+            ]
+        }
+    },
+    "1694971247226825:34037679": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Particles"
+            }
+        }
+    }
+}

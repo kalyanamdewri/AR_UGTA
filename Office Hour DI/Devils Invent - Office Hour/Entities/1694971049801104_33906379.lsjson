@@ -1,0 +1,17 @@
+{
+    "1694971049801104:33906379": {
+        "IResourceController": {
+            "name": "TextToSpeech",
+            "type": 35,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971049800829:33906378"
+        },
+        "IResourceManager": {
+            "uid": "1694971049800829:33906378",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

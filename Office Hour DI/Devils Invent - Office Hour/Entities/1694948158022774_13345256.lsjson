@@ -1,0 +1,22 @@
+{
+    "1694948158022774:13345256": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975655457:33858415",
+            "resources": [
+                "1694948157804332:13345191"
+            ]
+        }
+    },
+    "1694970975655457:33858415": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/chair/Material"
+            }
+        }
+    }
+}

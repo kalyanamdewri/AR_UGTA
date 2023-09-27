@@ -1,0 +1,115 @@
+{
+    "1694971250951771:34039852": {
+        "IFileManager": {
+            "path": "Files/File_1694971250951771_34039852.mesh"
+        }
+    },
+    "1694971250952736:34039853": {
+        "IResourceController": {
+            "name": "airplane",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250971050:34039862",
+            "fileId": "1694971250951771:34039852",
+            "publicId": "1694971250993976:34039874",
+            "expected_hash": "131664f33360251274777261f151fe05",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250971050:34039862",
+            "name": "Files/File_1694971250951771_34039852.mesh",
+            "flags": 1
+        }
+    },
+    "1694971250971050:34039862": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "624564",
+                "compressedSize": "305698",
+                "extension": "mesh",
+                "originalRAM": "624564",
+                "originalSize": "305698",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694971250977012:34039873"
+        }
+    },
+    "1694971250977012:34039873": {
+        "IFileManager": {
+            "path": "Files/File_1694971250977012_34039873.mesh"
+        }
+    },
+    "1694971250993976:34039874": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Models/airplane/Meshes/airplane.mesh",
+                "hash": "131664f33360251274777261f151fe05"
+            }
+        }
+    }
+}

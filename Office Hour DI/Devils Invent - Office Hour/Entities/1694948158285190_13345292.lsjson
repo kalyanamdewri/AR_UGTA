@@ -1,0 +1,22 @@
+{
+    "1694948158285190:13345292": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975650258:33858405",
+            "resources": [
+                "1694948158079757:13345278"
+            ]
+        }
+    },
+    "1694970975650258:33858405": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/cooking_table/Material"
+            }
+        }
+    }
+}

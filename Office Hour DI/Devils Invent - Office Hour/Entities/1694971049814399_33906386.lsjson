@@ -1,0 +1,38 @@
+{
+    "1694971049812222:33906385": {
+        "IFileManager": {
+            "path": "Files/File_1694971049812222_33906385.js"
+        }
+    },
+    "1694971049814399:33906386": {
+        "IResourceController": {
+            "name": "TTSController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971049814541:33906387",
+            "fileId": "1694971049812222:33906385",
+            "publicId": "1694971049828734:33906401",
+            "expected_hash": "144028ae5ff0afeff797da29266ab8e5"
+        },
+        "IResourceManager": {
+            "uid": "1694971049814541:33906387",
+            "name": "Files/File_1694971049812222_33906385.js",
+            "flags": 1
+        }
+    },
+    "1694971049814541:33906387": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1694971049828734:33906401": {
+        "IResourceController": {
+            "public": {
+                "path": "Text To Speech Resources/Scripts/TTSController.js",
+                "hash": "144028ae5ff0afeff797da29266ab8e5"
+            }
+        }
+    }
+}

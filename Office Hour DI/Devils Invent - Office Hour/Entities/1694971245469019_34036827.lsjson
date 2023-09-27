@@ -1,0 +1,38 @@
+{
+    "1694971245463211:34036826": {
+        "IFileManager": {
+            "path": "Files/File_1694971245463211_34036826.js"
+        }
+    },
+    "1694971245469019:34036827": {
+        "IResourceController": {
+            "name": "ScreenTransformToMaterialProperty",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971245469044:34036828",
+            "fileId": "1694971245463211:34036826",
+            "publicId": "1694971245482608:34036838",
+            "expected_hash": "85607a008aeb6660a709686fefee7aa2"
+        },
+        "IResourceManager": {
+            "uid": "1694971245469044:34036828",
+            "name": "Files/File_1694971245463211_34036826.js",
+            "flags": 1
+        }
+    },
+    "1694971245469044:34036828": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1694971245482608:34036838": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/Helper Scripts/ScreenTransformToMaterialProperty.js",
+                "hash": "85607a008aeb6660a709686fefee7aa2"
+            }
+        }
+    }
+}

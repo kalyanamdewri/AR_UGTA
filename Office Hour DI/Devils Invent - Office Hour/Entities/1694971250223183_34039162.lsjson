@@ -1,0 +1,43 @@
+{
+    "1694971250222309:34039161": {
+        "IFileManager": {
+            "path": "Files/File_1694971250222309_34039161.png"
+        }
+    },
+    "1694971250223183:34039162": {
+        "IResourceController": {
+            "name": "white",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250223256:34039163",
+            "fileId": "1694971250222309:34039161",
+            "originalId": "1694971250223446:34039168",
+            "publicId": "1694971250227566:34039174",
+            "expected_hash": "8588ed5a54012f08bde8e6e7913bd90d",
+            "additional": {
+                "originHash": "8588ed5a54012f08bde8e6e7913bd90d",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250223256:34039163",
+            "name": "Files/File_1694971250222309_34039161.jpg",
+            "flags": 1
+        }
+    },
+    "1694971250223446:34039168": {
+        "IFileManager": {
+            "path": "Files/File_1694971250223446_34039168.png"
+        }
+    },
+    "1694971250227566:34039174": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Textures/white.png",
+                "hash": "8588ed5a54012f08bde8e6e7913bd90d"
+            }
+        }
+    }
+}

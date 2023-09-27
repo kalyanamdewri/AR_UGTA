@@ -1,0 +1,22 @@
+{
+    "1694948159435513:13345750": {
+        "IResourceController": {
+            "name": "Material",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975626705:33858364",
+            "resources": [
+                "1694948159253715:13345736"
+            ]
+        }
+    },
+    "1694970975626705:33858364": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/nightstand/Material"
+            }
+        }
+    }
+}

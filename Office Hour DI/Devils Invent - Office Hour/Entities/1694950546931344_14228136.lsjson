@@ -1,0 +1,39 @@
+{
+    "1694950546929789:14228135": {
+        "IFileManager": {
+            "path": "Files/File_1694950546929789_14228135"
+        }
+    },
+    "1694950546931344:14228136": {
+        "IResourceController": {
+            "name": "Ch02_hair",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694950546931350:14228137",
+            "fileId": "1694950546929789:14228135",
+            "originalId": "1694950546956426:14228149",
+            "publicId": "1694970975845567:33858455",
+            "expected_hash": "9f1ac1766fe4cbaf1da4d979b7dbd8b4"
+        },
+        "IResourceManager": {
+            "uid": "1694950546931350:14228137",
+            "name": "Files/File_1694950546929789_14228135",
+            "flags": 1
+        }
+    },
+    "1694950546956426:14228149": {
+        "IFileManager": {
+            "path": "Files/File_1694950546956426_14228149.lsmat"
+        }
+    },
+    "1694970975845567:33858455": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/student/Materials/Ch02_hair.lsmat",
+                "hash": "4fe98ba1bff295b9ce0f0a370677924f"
+            }
+        }
+    }
+}

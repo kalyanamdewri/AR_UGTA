@@ -1,0 +1,22 @@
+{
+    "1675112549279029:4379": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975567160:33858308",
+            "resources": [
+                "1675112549278827:3971"
+            ]
+        }
+    },
+    "1694970975567160:33858308": {
+        "IResourceController": {
+            "public": {
+                "path": "WorldObjectController/Textures"
+            }
+        }
+    }
+}

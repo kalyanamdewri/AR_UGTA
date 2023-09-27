@@ -1,0 +1,39 @@
+{
+    "1694948157555943:13345050": {
+        "IFileManager": {
+            "path": "Files/File_1694948157555943_13345050"
+        }
+    },
+    "1694948157557078:13345051": {
+        "IResourceController": {
+            "name": "bin",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948157557086:13345052",
+            "fileId": "1694948157555943:13345050",
+            "originalId": "1694948157600081:13345058",
+            "publicId": "1694970975662832:33858432",
+            "expected_hash": "83564c310d101bb60e2e7b41bbbe5141"
+        },
+        "IResourceManager": {
+            "uid": "1694948157557086:13345052",
+            "name": "Files/File_1694948157555943_13345050",
+            "flags": 1
+        }
+    },
+    "1694948157600081:13345058": {
+        "IFileManager": {
+            "path": "Files/File_1694948157600081_13345058.lsmat"
+        }
+    },
+    "1694970975662832:33858432": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/bin/Material/bin.lsmat",
+                "hash": "b87ef9a615275fe8092b5572c0accafc"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1694948157802812:13345182": {
+        "IFileManager": {
+            "path": "Files/File_1694948157802812_13345182"
+        }
+    },
+    "1694948157804332:13345191": {
+        "IResourceController": {
+            "name": "chair",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948157804335:13345192",
+            "fileId": "1694948157802812:13345182",
+            "originalId": "1694948157853454:13345249",
+            "publicId": "1694970975655859:33858416",
+            "expected_hash": "1021c2ec9eec333f89d35439b58c8eb7"
+        },
+        "IResourceManager": {
+            "uid": "1694948157804335:13345192",
+            "name": "Files/File_1694948157802812_13345182",
+            "flags": 1
+        }
+    },
+    "1694948157853454:13345249": {
+        "IFileManager": {
+            "path": "Files/File_1694948157853454_13345249.lsmat"
+        }
+    },
+    "1694970975655859:33858416": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/chair/Material/chair.lsmat",
+                "hash": "83964ba294347f19f3e236bada7ecaa8"
+            }
+        }
+    }
+}

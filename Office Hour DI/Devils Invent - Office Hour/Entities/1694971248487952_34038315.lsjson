@@ -1,0 +1,39 @@
+{
+    "1694971248487054:34038314": {
+        "IFileManager": {
+            "path": "Files/File_1694971248487054_34038314"
+        }
+    },
+    "1694971248487952:34038315": {
+        "IResourceController": {
+            "name": "hand_segmentation_speed_change",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971248487956:34038316",
+            "fileId": "1694971248487054:34038314",
+            "originalId": "1694971248508827:34038322",
+            "publicId": "1694971248563899:34038329",
+            "expected_hash": "8a3086afc2280f90f60339f5f60a7ec4"
+        },
+        "IResourceManager": {
+            "uid": "1694971248487956:34038316",
+            "name": "Files/File_1694971248487054_34038314",
+            "flags": 1
+        }
+    },
+    "1694971248508827:34038322": {
+        "IFileManager": {
+            "path": "Files/File_1694971248508827_34038322.lsmat"
+        }
+    },
+    "1694971248563899:34038329": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Materials/hand_segmentation_speed_change.lsmat",
+                "hash": "b81fa5ccd106c22db9b35afc5a61f4d9"
+            }
+        }
+    }
+}

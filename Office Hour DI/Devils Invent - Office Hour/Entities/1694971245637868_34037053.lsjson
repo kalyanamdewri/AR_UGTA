@@ -1,0 +1,38 @@
+{
+    "1694971245632763:34037052": {
+        "IFileManager": {
+            "path": "Files/File_1694971245632763_34037052.js"
+        }
+    },
+    "1694971245637868:34037053": {
+        "IResourceController": {
+            "name": "HandGestureController",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971245637892:34037054",
+            "fileId": "1694971245632763:34037052",
+            "publicId": "1694971245649277:34037066",
+            "expected_hash": "9809b2585cda2cc48b38e1986ce96974"
+        },
+        "IResourceManager": {
+            "uid": "1694971245637892:34037054",
+            "name": "Files/File_1694971245632763_34037052.js",
+            "flags": 1
+        }
+    },
+    "1694971245637892:34037054": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1694971245649277:34037066": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/HandGestureController.js",
+                "hash": "9809b2585cda2cc48b38e1986ce96974"
+            }
+        }
+    }
+}

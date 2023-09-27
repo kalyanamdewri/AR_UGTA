@@ -1,0 +1,39 @@
+{
+    "1694971049615907:33906267": {
+        "IResourceController": {
+            "name": "TextToSpeech__PLACE_IN_OBJECTS_PANEL",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971049613435:33906260",
+            "fileId": "1694971049767157:33906336",
+            "originalId": "1694971639525203:34460191",
+            "publicId": "1694971049859255:33906505",
+            "expected_hash": "e1a2087221304de124f301562edc0533"
+        },
+        "IResourceManager": {
+            "uid": "1694971049613435:33906260",
+            "name": "sceneObject_0",
+            "flags": 0
+        }
+    },
+    "1694971049767157:33906336": {
+        "IFileManager": {
+            "path": "Files/File_1694971049767157_33906336.oprfb"
+        }
+    },
+    "1694971049859255:33906505": {
+        "IResourceController": {
+            "public": {
+                "path": "TextToSpeech__PLACE_IN_OBJECTS_PANEL.oprfb",
+                "hash": "9c75d51eb330361565723bd295d8f108"
+            }
+        }
+    },
+    "1694971639525203:34460191": {
+        "IFileManager": {
+            "path": "Files/File_1694971639525203_34460191.oprfb"
+        }
+    }
+}

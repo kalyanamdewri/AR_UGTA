@@ -1,0 +1,115 @@
+{
+    "1694971250797456:34039748": {
+        "IFileManager": {
+            "path": "Files/File_1694971250797456_34039748.mesh"
+        }
+    },
+    "1694971250798710:34039749": {
+        "IResourceController": {
+            "name": "glass",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250817214:34039753",
+            "fileId": "1694971250797456:34039748",
+            "publicId": "1694971250823028:34039771",
+            "expected_hash": "efd0916076ae26fc399a1237bef6010f",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250817214:34039753",
+            "name": "Files/File_1694971250797456_34039748.mesh",
+            "flags": 1
+        }
+    },
+    "1694971250817214:34039753": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "960",
+                "compressedSize": "1254",
+                "extension": "mesh",
+                "originalRAM": "960",
+                "originalSize": "1254",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694971250820975:34039770"
+        }
+    },
+    "1694971250820975:34039770": {
+        "IFileManager": {
+            "path": "Files/File_1694971250820975_34039770.mesh"
+        }
+    },
+    "1694971250823028:34039771": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Models/airplane/Meshes/glass.mesh",
+                "hash": "efd0916076ae26fc399a1237bef6010f"
+            }
+        }
+    }
+}

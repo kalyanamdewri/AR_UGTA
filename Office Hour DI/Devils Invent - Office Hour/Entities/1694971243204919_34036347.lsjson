@@ -1,0 +1,67 @@
+{
+    "1694971243203632:34036346": {
+        "IFileManager": {
+            "path": "Files/File_1694971243203632_34036346.png"
+        }
+    },
+    "1694971243204919:34036347": {
+        "IResourceController": {
+            "name": "1",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971243205503:34036348",
+            "fileId": "1694971243203632:34036346",
+            "originalId": "1694971243205727:34036353",
+            "publicId": "1694971243220936:34036371",
+            "expected_hash": "78e21cac65e504da51df2d253617c674",
+            "additional": {
+                "originHash": "78e21cac65e504da51df2d253617c674",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971243205503:34036348",
+            "name": "Files/File_1694971243203632_34036346.jpg",
+            "flags": 1
+        }
+    },
+    "1694971243205503:34036348": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "30033",
+                "extension": "png",
+                "originalRAM": "524288",
+                "originalSize": "30033",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694971243212247:34036368"
+        }
+    },
+    "1694971243205727:34036353": {
+        "IFileManager": {
+            "path": "Files/File_1694971243205727_34036353.png"
+        }
+    },
+    "1694971243212247:34036368": {
+        "IFileManager": {
+            "path": "Files/File_1694971243212247_34036368.png"
+        }
+    },
+    "1694971243220936:34036371": {
+        "IResourceController": {
+            "public": {
+                "path": "spatiate/Textures/1.png",
+                "hash": "78e21cac65e504da51df2d253617c674"
+            }
+        }
+    }
+}

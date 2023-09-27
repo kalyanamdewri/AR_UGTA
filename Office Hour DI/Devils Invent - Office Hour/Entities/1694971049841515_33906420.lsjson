@@ -1,0 +1,38 @@
+{
+    "1694971049838986:33906417": {
+        "IFileManager": {
+            "path": "Files/File_1694971049838986_33906417.js"
+        }
+    },
+    "1694971049841515:33906420": {
+        "IResourceController": {
+            "name": "TTSExample[DELETE_ME]",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971049841530:33906421",
+            "fileId": "1694971049838986:33906417",
+            "publicId": "1694971049848006:33906431",
+            "expected_hash": "2dcefd3dda9adadfd89cf300631e31a3"
+        },
+        "IResourceManager": {
+            "uid": "1694971049841530:33906421",
+            "name": "Files/File_1694971049838986_33906417.js",
+            "flags": 1
+        }
+    },
+    "1694971049841530:33906421": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1694971049848006:33906431": {
+        "IResourceController": {
+            "public": {
+                "path": "Text To Speech Resources/Scripts/TTSExample[DELETE_ME].js",
+                "hash": "2dcefd3dda9adadfd89cf300631e31a3"
+            }
+        }
+    }
+}

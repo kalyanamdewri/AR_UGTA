@@ -1,0 +1,39 @@
+{
+    "1694948158078894:13345277": {
+        "IFileManager": {
+            "path": "Files/File_1694948158078894_13345277"
+        }
+    },
+    "1694948158079757:13345278": {
+        "IResourceController": {
+            "name": "cooking_table",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948158079761:13345279",
+            "fileId": "1694948158078894:13345277",
+            "originalId": "1694948158118303:13345285",
+            "publicId": "1694970975650849:33858406",
+            "expected_hash": "83564c310d101bb60e2e7b41bbbe5141"
+        },
+        "IResourceManager": {
+            "uid": "1694948158079761:13345279",
+            "name": "Files/File_1694948158078894_13345277",
+            "flags": 1
+        }
+    },
+    "1694948158118303:13345285": {
+        "IFileManager": {
+            "path": "Files/File_1694948158118303_13345285.lsmat"
+        }
+    },
+    "1694970975650849:33858406": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/cooking_table/Material/cooking_table.lsmat",
+                "hash": "e0a1ad6b8dd72f43961647ba0da5670a"
+            }
+        }
+    }
+}

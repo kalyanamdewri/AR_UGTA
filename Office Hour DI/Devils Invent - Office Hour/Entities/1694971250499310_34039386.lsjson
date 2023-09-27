@@ -1,0 +1,67 @@
+{
+    "1694971250498133:34039376": {
+        "IFileManager": {
+            "path": "Files/File_1694971250498133_34039376.jpg"
+        }
+    },
+    "1694971250499310:34039386": {
+        "IResourceController": {
+            "name": "accessories_normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250499447:34039387",
+            "fileId": "1694971250498133:34039376",
+            "originalId": "1694971250500365:34039392",
+            "publicId": "1694971250510076:34039399",
+            "expected_hash": "3e71937725d8e9085da85e6c89d23d32",
+            "additional": {
+                "originHash": "3e71937725d8e9085da85e6c89d23d32",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250499447:34039387",
+            "name": "Files/File_1694971250498133_34039376.jpg",
+            "flags": 1
+        }
+    },
+    "1694971250499447:34039387": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "65536",
+                "compressedSize": "12032",
+                "extension": "jpg",
+                "originalRAM": "65536",
+                "originalSize": "12032",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694971250506662:34039398"
+        }
+    },
+    "1694971250500365:34039392": {
+        "IFileManager": {
+            "path": "Files/File_1694971250500365_34039392.jpg"
+        }
+    },
+    "1694971250506662:34039398": {
+        "IFileManager": {
+            "path": "Files/File_1694971250506662_34039398.jpg"
+        }
+    },
+    "1694971250510076:34039399": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Textures/accessories_normal.jpg",
+                "hash": "3e71937725d8e9085da85e6c89d23d32"
+            }
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "1675112549278862:4204": {
+        "IResourceController": {
+            "name": "red_panda_pbr",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1645232658642947:88301",
+            "fileId": "1675112549278955:4278",
+            "originalId": "1675112549278956:4279",
+            "publicId": "1694970975611786:33858342",
+            "expected_hash": "ff28708269438ab50bc4a20df9b8fb7f"
+        },
+        "IResourceManager": {
+            "uid": "1645232658642947:88301",
+            "name": "Files/File_1675112549278955_4278",
+            "flags": 1
+        }
+    },
+    "1675112549278955:4278": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278955_4278"
+        }
+    },
+    "1675112549278956:4279": {
+        "IFileManager": {
+            "path": "Files/File_1675112549278956_4279.lsmat"
+        }
+    },
+    "1694970975611786:33858342": {
+        "IResourceController": {
+            "public": {
+                "path": "Red_Panda_FBX [REMOVE_ME]/Materials/red_panda_pbr.lsmat",
+                "hash": "e832e4841d74d14402ab5f8208a2a7c5"
+            }
+        }
+    }
+}

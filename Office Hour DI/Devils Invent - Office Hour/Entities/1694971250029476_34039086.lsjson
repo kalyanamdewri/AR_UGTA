@@ -1,0 +1,39 @@
+{
+    "1694971250028606:34039085": {
+        "IFileManager": {
+            "path": "Files/File_1694971250028606_34039085"
+        }
+    },
+    "1694971250029476:34039086": {
+        "IResourceController": {
+            "name": "red_panda_pbr",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250029480:34039087",
+            "fileId": "1694971250028606:34039085",
+            "originalId": "1694971250050965:34039098",
+            "publicId": "1694971250150738:34039105",
+            "expected_hash": "52aa9209fc90a97df1ed1c458e20eb05"
+        },
+        "IResourceManager": {
+            "uid": "1694971250029480:34039087",
+            "name": "Files/File_1694971250028606_34039085",
+            "flags": 1
+        }
+    },
+    "1694971250050965:34039098": {
+        "IFileManager": {
+            "path": "Files/File_1694971250050965_34039098.lsmat"
+        }
+    },
+    "1694971250150738:34039105": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Materials/red_panda_pbr.lsmat",
+                "hash": "b197e946d6ab43f8dde2fb6333f6b2b5"
+            }
+        }
+    }
+}

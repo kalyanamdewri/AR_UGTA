@@ -1,0 +1,24 @@
+{
+    "1694971240600327:34035215": {
+        "IResourceController": {
+            "name": "spatiate",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694971240600703:34035216",
+            "resources": [
+                "1694971240601414:34035217",
+                "1694971243210793:34036359",
+                "1694971244775293:34036387"
+            ]
+        }
+    },
+    "1694971240600703:34035216": {
+        "IResourceController": {
+            "public": {
+                "path": "spatiate"
+            }
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "1694971251180304:34040053": {
+        "IResourceController": {
+            "name": "Bn_2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971251180303:34040052"
+        },
+        "IResourceManager": {
+            "uid": "1694971251180303:34040052",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

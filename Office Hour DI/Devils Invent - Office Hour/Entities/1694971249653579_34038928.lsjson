@@ -1,0 +1,42 @@
+{
+    "1694971249652697:34038927": {
+        "IFileManager": {
+            "path": "Files/File_1694971249652697_34038927"
+        }
+    },
+    "1694971249653579:34038928": {
+        "IResourceController": {
+            "name": "zoom_in_post_effect",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971249653582:34038929",
+            "fileId": "1694971249652697:34038927",
+            "originalId": "1694971249673895:34038938",
+            "publicId": "1694971249724002:34038947",
+            "expected_hash": "07c048a2c584da1070e9c88fc25c0448",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971249653582:34038929",
+            "name": "Files/File_1694971249652697_34038927",
+            "flags": 1
+        }
+    },
+    "1694971249673895:34038938": {
+        "IFileManager": {
+            "path": "Files/File_1694971249673895_34038938.lsmat"
+        }
+    },
+    "1694971249724002:34038947": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Materials/zoom_in_post_effect.lsmat",
+                "hash": "7b2fc23f4b9d55071496b291da165c8d"
+            }
+        }
+    }
+}

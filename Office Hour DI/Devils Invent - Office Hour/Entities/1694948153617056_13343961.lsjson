@@ -1,0 +1,23 @@
+{
+    "1694948153617056:13343961": {
+        "IResourceController": {
+            "name": "Bitmoji Home Pack Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975615607:33858343",
+            "resources": [
+                "1694948153619368:13343963",
+                "1694948156053654:13344311"
+            ]
+        }
+    },
+    "1694970975615607:33858343": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources"
+            }
+        }
+    }
+}

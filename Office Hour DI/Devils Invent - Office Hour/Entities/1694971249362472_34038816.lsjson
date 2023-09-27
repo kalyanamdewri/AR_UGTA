@@ -1,0 +1,42 @@
+{
+    "1694971249361586:34038815": {
+        "IFileManager": {
+            "path": "Files/File_1694971249361586_34038815"
+        }
+    },
+    "1694971249362472:34038816": {
+        "IResourceController": {
+            "name": "airplane",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971249362476:34038817",
+            "fileId": "1694971249361586:34038815",
+            "originalId": "1694971249389163:34038827",
+            "publicId": "1694971249468279:34038834",
+            "expected_hash": "d4647ec723498fb45b8fcf132862aa9c",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971249362476:34038817",
+            "name": "Files/File_1694971249361586_34038815",
+            "flags": 1
+        }
+    },
+    "1694971249389163:34038827": {
+        "IFileManager": {
+            "path": "Files/File_1694971249389163_34038827.lsmat"
+        }
+    },
+    "1694971249468279:34038834": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Materials/airplane.lsmat",
+                "hash": "997668e8d668141e050e7837357183fc"
+            }
+        }
+    }
+}

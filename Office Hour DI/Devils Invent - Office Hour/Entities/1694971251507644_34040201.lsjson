@@ -1,0 +1,80 @@
+{
+    "1694971251506805:34040200": {
+        "IFileManager": {
+            "path": "Files/File_1694971251506805_34040200.pvr"
+        }
+    },
+    "1694971251507644:34040201": {
+        "IResourceController": {
+            "name": "hand_gizmos",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971251507823:34040202",
+            "fileId": "1694971251506805:34040200",
+            "originalId": "1694971251508029:34040207",
+            "publicId": "1694971251516327:34040214",
+            "expected_hash": "a7fdb81d469b12d89d45bf1712d0aafe",
+            "additional": {
+                "originHash": "247de04d1517d4c930eb5918e1ff3265",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971251507823:34040202",
+            "name": "Files/File_1694971251506805_34040200.jpg",
+            "flags": 1
+        }
+    },
+    "1694971251507823:34040202": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "247de04d1517d4c930eb5918e1ff3265"
+                    },
+                    "v": "1694971287889843:34118187"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "8192",
+                "compressedSize": "1504",
+                "extension": "png",
+                "originalRAM": "65536",
+                "originalSize": "3442",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1694971251512839:34040213"
+        }
+    },
+    "1694971251508029:34040207": {
+        "IFileManager": {
+            "path": "Files/File_1694971251508029_34040207.png"
+        }
+    },
+    "1694971251512839:34040213": {
+        "IFileManager": {
+            "path": "Files/File_1694971251512839_34040213.png"
+        }
+    },
+    "1694971251516327:34040214": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Gizmos/hand_gizmos.png",
+                "hash": "247de04d1517d4c930eb5918e1ff3265"
+            }
+        }
+    },
+    "1694971287889843:34118187": {
+        "IFileManager": {
+            "path": "Files/File_1694971287889843_34118187.pvr"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "1694971049802363:33906383": {
+        "IResourceController": {
+            "name": "Text To Speech Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694971049805591:33906384",
+            "resources": [
+                "1694971049801104:33906379",
+                "1694971049819020:33906399"
+            ]
+        }
+    },
+    "1694971049805591:33906384": {
+        "IResourceController": {
+            "public": {
+                "path": "Text To Speech Resources"
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "1694950546320073:14227826": {
+        "IFileManager": {
+            "path": "Files/File_1694950546320073_14227826.png"
+        }
+    },
+    "1694950546321314:14227827": {
+        "IResourceController": {
+            "name": "Ch02_1002_Normal",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694950546321502:14227828",
+            "fileId": "1694950546320073:14227826",
+            "originalId": "1694950546322003:14227833",
+            "publicId": "1694970975830392:33858452",
+            "expected_hash": "b7ebdf8df3331d9137513d8d69c2cf5f",
+            "additional": {
+                "originHash": "b7ebdf8df3331d9137513d8d69c2cf5f"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694950546321502:14227828",
+            "name": "Files/File_1694950546320073_14227826.jpg",
+            "flags": 1
+        }
+    },
+    "1694950546321502:14227828": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "16777216",
+                "compressedSize": "2273231",
+                "extension": "png",
+                "originalRAM": "16777216",
+                "originalSize": "2273231",
+                "settings": {
+                    "isCompressed": "false",
+                    "level": "0",
+                    "subtype": "9",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694950546343972:14227844"
+        }
+    },
+    "1694950546322003:14227833": {
+        "IFileManager": {
+            "path": "Files/File_1694950546322003_14227833.png"
+        }
+    },
+    "1694950546343972:14227844": {
+        "IFileManager": {
+            "path": "Files/File_1694950546343972_14227844.png"
+        }
+    },
+    "1694970975830392:33858452": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/student/Textures/Ch02_1002_Normal.png",
+                "hash": "b7ebdf8df3331d9137513d8d69c2cf5f"
+            }
+        }
+    }
+}

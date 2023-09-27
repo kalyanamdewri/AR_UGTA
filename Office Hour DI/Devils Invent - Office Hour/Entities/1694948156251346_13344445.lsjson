@@ -1,0 +1,23 @@
+{
+    "1694948156251346:13344445": {
+        "IResourceController": {
+            "name": "sofa",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975633221:33858377",
+            "resources": [
+                "1694948156251875:13344447",
+                "1694948160121207:13346001"
+            ]
+        }
+    },
+    "1694970975633221:33858377": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/sofa"
+            }
+        }
+    }
+}

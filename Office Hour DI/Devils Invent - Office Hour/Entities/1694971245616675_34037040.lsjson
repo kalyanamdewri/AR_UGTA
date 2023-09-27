@@ -1,0 +1,38 @@
+{
+    "1694971245613323:34037031": {
+        "IFileManager": {
+            "path": "Files/File_1694971245613323_34037031.js"
+        }
+    },
+    "1694971245616675:34037040": {
+        "IResourceController": {
+            "name": "SetTextBasedOnValue",
+            "type": 4,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971245616701:34037041",
+            "fileId": "1694971245613323:34037031",
+            "publicId": "1694971245626442:34037051",
+            "expected_hash": "d26b3819124256e4222f8f5692958416"
+        },
+        "IResourceManager": {
+            "uid": "1694971245616701:34037041",
+            "name": "Files/File_1694971245613323_34037031.js",
+            "flags": 1
+        }
+    },
+    "1694971245616701:34037041": {
+        "ScriptModulesController": {
+            "dependent_module_names": []
+        }
+    },
+    "1694971245626442:34037051": {
+        "IResourceController": {
+            "public": {
+                "path": "Scripts/SetTextBasedOnValue.js",
+                "hash": "d26b3819124256e4222f8f5692958416"
+            }
+        }
+    }
+}

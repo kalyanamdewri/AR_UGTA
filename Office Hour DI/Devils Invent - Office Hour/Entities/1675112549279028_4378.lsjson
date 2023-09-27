@@ -1,0 +1,22 @@
+{
+    "1675112549279028:4378": {
+        "IResourceController": {
+            "name": "Scripts",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975566381:33858306",
+            "resources": [
+                "1675112549278828:3972"
+            ]
+        }
+    },
+    "1694970975566381:33858306": {
+        "IResourceController": {
+            "public": {
+                "path": "WorldObjectController/Scripts"
+            }
+        }
+    }
+}

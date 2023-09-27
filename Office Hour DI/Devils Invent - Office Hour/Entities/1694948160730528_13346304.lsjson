@@ -1,0 +1,39 @@
+{
+    "1694948160724895:13346303": {
+        "IFileManager": {
+            "path": "Files/File_1694948160724895_13346303"
+        }
+    },
+    "1694948160730528:13346304": {
+        "IResourceController": {
+            "name": "table_dining",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948160730532:13346305",
+            "fileId": "1694948160724895:13346303",
+            "originalId": "1694948160788653:13346311",
+            "publicId": "1694970975653487:33858411",
+            "expected_hash": "83564c310d101bb60e2e7b41bbbe5141"
+        },
+        "IResourceManager": {
+            "uid": "1694948160730532:13346305",
+            "name": "Files/File_1694948160724895_13346303",
+            "flags": 1
+        }
+    },
+    "1694948160788653:13346311": {
+        "IFileManager": {
+            "path": "Files/File_1694948160788653_13346311.lsmat"
+        }
+    },
+    "1694970975653487:33858411": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/table_dining/Material/table_dining.lsmat",
+                "hash": "a59bf211eebdf19b923949b260804b08"
+            }
+        }
+    }
+}

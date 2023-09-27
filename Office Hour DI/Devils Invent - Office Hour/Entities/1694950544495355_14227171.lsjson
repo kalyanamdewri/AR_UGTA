@@ -1,0 +1,17 @@
+{
+    "1694950544495355:14227171": {
+        "IResourceController": {
+            "name": "mixamorig_Spine2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1694950544495355:14227170"
+        },
+        "IResourceManager": {
+            "uid": "1694950544495355:14227170",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

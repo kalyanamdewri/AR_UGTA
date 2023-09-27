@@ -1,0 +1,17 @@
+{
+    "1694950544503888:14227422": {
+        "IResourceController": {
+            "name": "mixamorig_RightHandThumb2",
+            "type": 8,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1694950544503887:14227421"
+        },
+        "IResourceManager": {
+            "uid": "1694950544503887:14227421",
+            "name": "",
+            "flags": 0
+        }
+    }
+}

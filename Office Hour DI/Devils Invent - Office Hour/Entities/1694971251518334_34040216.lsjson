@@ -1,0 +1,33 @@
+{
+    "1694971251517289:34040215": {
+        "IFileManager": {
+            "path": "Files/File_1694971251517289_34040215.ttf"
+        }
+    },
+    "1694971251518334:34040216": {
+        "IResourceController": {
+            "name": "FredokaOne-Regular",
+            "type": 13,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971251518350:34040217",
+            "fileId": "1694971251517289:34040215",
+            "publicId": "1694971251521489:34040234",
+            "expected_hash": "4a2f2ea45a0bb1abe81b47d0afde4aae"
+        },
+        "IResourceManager": {
+            "uid": "1694971251518350:34040217",
+            "name": "Files/File_1694971251517289_34040215.ttf",
+            "flags": 1
+        }
+    },
+    "1694971251521489:34040234": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Fonts/FredokaOne-Regular.ttf",
+                "hash": "4a2f2ea45a0bb1abe81b47d0afde4aae"
+            }
+        }
+    }
+}

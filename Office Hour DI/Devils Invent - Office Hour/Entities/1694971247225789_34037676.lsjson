@@ -1,0 +1,27 @@
+{
+    "1694971247225789:34037676": {
+        "IResourceController": {
+            "name": "Hand Segmentation Template Resources",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694971247226000:34037677",
+            "resources": [
+                "1694971247226696:34037678",
+                "1694971247629338:34037954",
+                "1694971250193190:34039142",
+                "1694971250819496:34039763",
+                "1694971251471749:34040165",
+                "1694971251520473:34040227"
+            ]
+        }
+    },
+    "1694971247226000:34037677": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources"
+            }
+        }
+    }
+}

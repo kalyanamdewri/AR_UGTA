@@ -1,0 +1,24 @@
+{
+    "1675112549279041:4386": {
+        "IResourceController": {
+            "name": "Textures",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975581321:33858323",
+            "resources": [
+                "1675112549278839:4052",
+                "1675112549278839:4053",
+                "1675112549278839:4054"
+            ]
+        }
+    },
+    "1694970975581321:33858323": {
+        "IResourceController": {
+            "public": {
+                "path": "Elephant [REMOVE_ME]/Textures"
+            }
+        }
+    }
+}

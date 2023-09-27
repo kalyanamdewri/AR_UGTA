@@ -1,0 +1,23 @@
+{
+    "1694971251471749:34040165": {
+        "IResourceController": {
+            "name": "Gizmos",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694971251471925:34040166",
+            "resources": [
+                "1694971251395506:34040151",
+                "1694971251507644:34040201"
+            ]
+        }
+    },
+    "1694971251471925:34040166": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Gizmos"
+            }
+        }
+    }
+}

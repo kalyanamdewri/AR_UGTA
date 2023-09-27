@@ -1,0 +1,80 @@
+{
+    "1694971250540955:34039427": {
+        "IFileManager": {
+            "path": "Files/File_1694971250540955_34039427.pvr"
+        }
+    },
+    "1694971250542073:34039430": {
+        "IResourceController": {
+            "name": "cloud_three",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971250542166:34039431",
+            "fileId": "1694971250540955:34039427",
+            "originalId": "1694971250542396:34039437",
+            "publicId": "1694971250551961:34039482",
+            "expected_hash": "107fea9c74553471142cc6722c0a29f4",
+            "additional": {
+                "originHash": "4713d51869943449d48610c53fcf3c0f",
+                "subtype": "9"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971250542166:34039431",
+            "name": "Files/File_1694971250540955_34039427.jpg",
+            "flags": 1
+        }
+    },
+    "1694971250542166:34039431": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "4713d51869943449d48610c53fcf3c0f"
+                    },
+                    "v": "1694971286702731:34099484"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "32768",
+                "compressedSize": "2554",
+                "extension": "png",
+                "originalRAM": "262144",
+                "originalSize": "2360",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1694971250548048:34039465"
+        }
+    },
+    "1694971250542396:34039437": {
+        "IFileManager": {
+            "path": "Files/File_1694971250542396_34039437.png"
+        }
+    },
+    "1694971250548048:34039465": {
+        "IFileManager": {
+            "path": "Files/File_1694971250548048_34039465.png"
+        }
+    },
+    "1694971250551961:34039482": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Textures/cloud_three.png",
+                "hash": "4713d51869943449d48610c53fcf3c0f"
+            }
+        }
+    },
+    "1694971286702731:34099484": {
+        "IFileManager": {
+            "path": "Files/File_1694971286702731_34099484.pvr"
+        }
+    }
+}

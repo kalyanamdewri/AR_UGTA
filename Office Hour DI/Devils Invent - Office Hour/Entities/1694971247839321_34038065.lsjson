@@ -1,0 +1,42 @@
+{
+    "1694971247838445:34038064": {
+        "IFileManager": {
+            "path": "Files/File_1694971247838445_34038064"
+        }
+    },
+    "1694971247839321:34038065": {
+        "IResourceController": {
+            "name": "radial_blur",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971247839324:34038066",
+            "fileId": "1694971247838445:34038064",
+            "originalId": "1694971247860673:34038075",
+            "publicId": "1694971247915289:34038084",
+            "expected_hash": "a6992e9fb0e439c992ab593f2cf12c94",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971247839324:34038066",
+            "name": "Files/File_1694971247838445_34038064",
+            "flags": 1
+        }
+    },
+    "1694971247860673:34038075": {
+        "IFileManager": {
+            "path": "Files/File_1694971247860673_34038075.lsmat"
+        }
+    },
+    "1694971247915289:34038084": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Materials/radial_blur.lsmat",
+                "hash": "679ae4f3c0cfe7c008732af2e4afc237"
+            }
+        }
+    }
+}

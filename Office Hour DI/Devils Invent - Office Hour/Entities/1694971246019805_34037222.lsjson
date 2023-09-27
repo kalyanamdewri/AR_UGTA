@@ -1,0 +1,42 @@
+{
+    "1694971246018963:34037221": {
+        "IFileManager": {
+            "path": "Files/File_1694971246018963_34037221"
+        }
+    },
+    "1694971246019805:34037222": {
+        "IResourceController": {
+            "name": "segmentation_simple [EDIT_ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971246019886:34037223",
+            "fileId": "1694971246018963:34037221",
+            "originalId": "1694971246058120:34037229",
+            "publicId": "1694971246176951:34037238",
+            "expected_hash": "324f122392b6a0625a634fd68693e2ab",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971246019886:34037223",
+            "name": "Files/File_1694971246018963_34037221",
+            "flags": 1
+        }
+    },
+    "1694971246058120:34037229": {
+        "IFileManager": {
+            "path": "Files/File_1694971246058120_34037229.lsmat"
+        }
+    },
+    "1694971246176951:34037238": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/segmentation_simple [EDIT_ME].lsmat",
+                "hash": "19840e76348557ee330b8ef916b76f6b"
+            }
+        }
+    }
+}

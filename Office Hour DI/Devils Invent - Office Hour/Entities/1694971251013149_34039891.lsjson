@@ -1,0 +1,115 @@
+{
+    "1694971251012033:34039890": {
+        "IFileManager": {
+            "path": "Files/File_1694971251012033_34039890.mesh"
+        }
+    },
+    "1694971251013149:34039891": {
+        "IResourceController": {
+            "name": "glasses",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971251031295:34039895",
+            "fileId": "1694971251012033:34039890",
+            "publicId": "1694971251036624:34039907",
+            "expected_hash": "026a93d51dacb0cde622e2017af372cc",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971251031295:34039895",
+            "name": "Files/File_1694971251012033_34039890.mesh",
+            "flags": 1
+        }
+    },
+    "1694971251031295:34039895": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "25800",
+                "compressedSize": "21959",
+                "extension": "mesh",
+                "originalRAM": "25800",
+                "originalSize": "21959",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694971251033835:34039906"
+        }
+    },
+    "1694971251033835:34039906": {
+        "IFileManager": {
+            "path": "Files/File_1694971251033835_34039906.mesh"
+        }
+    },
+    "1694971251036624:34039907": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Models/airplane/Meshes/glasses.mesh",
+                "hash": "026a93d51dacb0cde622e2017af372cc"
+            }
+        }
+    }
+}

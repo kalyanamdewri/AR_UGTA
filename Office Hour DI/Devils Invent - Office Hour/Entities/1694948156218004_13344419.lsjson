@@ -1,0 +1,22 @@
+{
+    "1694948156218004:13344419": {
+        "IResourceController": {
+            "name": "Meshes",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975631124:33858373",
+            "resources": [
+                "1694948156194992:13344403"
+            ]
+        }
+    },
+    "1694970975631124:33858373": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/table/Meshes"
+            }
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "1694948156671173:13344642": {
+        "IFileManager": {
+            "path": "Files/File_1694948156671173_13344642.mesh"
+        }
+    },
+    "1694948156673492:13344643": {
+        "IResourceController": {
+            "name": "Box001",
+            "type": 3,
+            "subtype": 0,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948156706483:13344647",
+            "fileId": "1694948156671173:13344642",
+            "publicId": "1694970975654949:33858414",
+            "expected_hash": "d4a8c95ee78cadfef2dfc10fd62c0430",
+            "additional": {
+                "info": {
+                    "hasBlendShapes": "false",
+                    "vertexAttribs": [
+                        {
+                            "canBeDisabled": "false",
+                            "format": "9",
+                            "semantic": "position"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "normal"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "tangent"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "texture0"
+                        },
+                        {
+                            "canBeDisabled": "true",
+                            "format": "9",
+                            "semantic": "boneData"
+                        }
+                    ]
+                }
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694948156706483:13344647",
+            "name": "Files/File_1694948156671173_13344642.mesh",
+            "flags": 1
+        }
+    },
+    "1694948156706483:13344647": {
+        "Compression::IController": {
+            "compressed_files": "",
+            "infos": {
+                "compressedRAM": "55752",
+                "compressedSize": "25744",
+                "extension": "mesh",
+                "originalRAM": "55752",
+                "originalSize": "25744",
+                "settings": {
+                    "attributeFormat": "",
+                    "draco": {
+                        "colorBits": "8",
+                        "compressLvl": "7",
+                        "normalBits": "8",
+                        "posBits": "11",
+                        "texBits": "10"
+                    },
+                    "info": {
+                        "hasBlendShapes": "false",
+                        "vertexAttribs": [
+                            {
+                                "canBeDisabled": "false",
+                                "format": "9",
+                                "semantic": "position"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "normal"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "tangent"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "texture0"
+                            },
+                            {
+                                "canBeDisabled": "true",
+                                "format": "9",
+                                "semantic": "boneData"
+                            }
+                        ]
+                    },
+                    "isCompressed": "false",
+                    "type": "0"
+                }
+            },
+            "uncompressed_file": "1694948156715142:13344662"
+        }
+    },
+    "1694948156715142:13344662": {
+        "IFileManager": {
+            "path": "Files/File_1694948156715142_13344662.mesh"
+        }
+    },
+    "1694970975654949:33858414": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/chair/Meshes/Box001.mesh",
+                "hash": "d4a8c95ee78cadfef2dfc10fd62c0430"
+            }
+        }
+    }
+}

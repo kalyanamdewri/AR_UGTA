@@ -1,0 +1,22 @@
+{
+    "1675112549279132:4394": {
+        "IResourceController": {
+            "name": "Materials",
+            "type": 0,
+            "subtype": -1,
+            "dependency": 0,
+            "hidden": false,
+            "publicId": "1694970975611004:33858341",
+            "resources": [
+                "1675112549278862:4204"
+            ]
+        }
+    },
+    "1694970975611004:33858341": {
+        "IResourceController": {
+            "public": {
+                "path": "Red_Panda_FBX [REMOVE_ME]/Materials"
+            }
+        }
+    }
+}

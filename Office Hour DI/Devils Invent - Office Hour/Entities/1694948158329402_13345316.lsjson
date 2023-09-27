@@ -1,0 +1,39 @@
+{
+    "1694948158327556:13345315": {
+        "IFileManager": {
+            "path": "Files/File_1694948158327556_13345315"
+        }
+    },
+    "1694948158329402:13345316": {
+        "IResourceController": {
+            "name": "countertop_empty",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694948158329406:13345317",
+            "fileId": "1694948158327556:13345315",
+            "originalId": "1694948158359021:13345323",
+            "publicId": "1694970975647372:33858401",
+            "expected_hash": "83564c310d101bb60e2e7b41bbbe5141"
+        },
+        "IResourceManager": {
+            "uid": "1694948158329406:13345317",
+            "name": "Files/File_1694948158327556_13345315",
+            "flags": 1
+        }
+    },
+    "1694948158359021:13345323": {
+        "IFileManager": {
+            "path": "Files/File_1694948158359021_13345323.lsmat"
+        }
+    },
+    "1694970975647372:33858401": {
+        "IResourceController": {
+            "public": {
+                "path": "Bitmoji Home Pack Resources/Meshes/countertop_empty/Material/countertop_empty.lsmat",
+                "hash": "7fe3ac290d22c0dd7c394f2e88b3c741"
+            }
+        }
+    }
+}

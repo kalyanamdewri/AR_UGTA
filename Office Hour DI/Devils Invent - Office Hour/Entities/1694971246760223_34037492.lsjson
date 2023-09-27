@@ -1,0 +1,42 @@
+{
+    "1694971246758920:34037491": {
+        "IFileManager": {
+            "path": "Files/File_1694971246758920_34037491"
+        }
+    },
+    "1694971246760223:34037492": {
+        "IResourceController": {
+            "name": "segmentation_parallax_material [EDIT_ME]",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971246760226:34037493",
+            "fileId": "1694971246758920:34037491",
+            "originalId": "1694971246781510:34037502",
+            "publicId": "1694971246838917:34037511",
+            "expected_hash": "35a8a42e828e8d83616c6590fed75a45",
+            "additional": {
+                "isUnpackedInPublic": "false"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1694971246760226:34037493",
+            "name": "Files/File_1694971246758920_34037491",
+            "flags": 1
+        }
+    },
+    "1694971246781510:34037502": {
+        "IFileManager": {
+            "path": "Files/File_1694971246781510_34037502.lsmat"
+        }
+    },
+    "1694971246838917:34037511": {
+        "IResourceController": {
+            "public": {
+                "path": "Materials/segmentation_parallax_material [EDIT_ME].lsmat",
+                "hash": "483a895b180bddf407bf527f9ec28bb1"
+            }
+        }
+    }
+}

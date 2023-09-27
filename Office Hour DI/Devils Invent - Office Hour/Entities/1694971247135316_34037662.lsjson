@@ -1,0 +1,39 @@
+{
+    "1694971247134475:34037661": {
+        "IFileManager": {
+            "path": "Files/File_1694971247134475_34037661"
+        }
+    },
+    "1694971247135316:34037662": {
+        "IResourceController": {
+            "name": "smoke_particle",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1694971247135320:34037663",
+            "fileId": "1694971247134475:34037661",
+            "originalId": "1694971247155514:34037669",
+            "publicId": "1694971247227666:34037680",
+            "expected_hash": "63791a6497720a4fdef1811819d5deed"
+        },
+        "IResourceManager": {
+            "uid": "1694971247135320:34037663",
+            "name": "Files/File_1694971247134475_34037661",
+            "flags": 1
+        }
+    },
+    "1694971247155514:34037669": {
+        "IFileManager": {
+            "path": "Files/File_1694971247155514_34037669.lsmat"
+        }
+    },
+    "1694971247227666:34037680": {
+        "IResourceController": {
+            "public": {
+                "path": "Hand Segmentation Template Resources/Particles/smoke_particle.lsmat",
+                "hash": "538347f13fabb6a6d52099214d427b0c"
+            }
+        }
+    }
+}
